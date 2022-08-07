@@ -1,0 +1,8 @@
+epiz_32323349
+
+
+db details
+host name: sql205.epizy.com
+db: epiz_32323349_hpcs
+user: epiz_32323349
+pass: 
